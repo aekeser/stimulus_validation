@@ -1,0 +1,25 @@
+Trial_No,Trial_Type,Audio_File,UL_Image,UR_Image,LL_Image,LR_Image,Target_Position,Empty_Position,Correct_Response,Condition,Argument_Structure,Syntax,TR_Manipulated
+1,Main,15.wav,empty.png,15nt1.png,15t.png,15nt2.png,LL,UL,LL,1c_Canonical,1c,Canonical,"Recipient, Theme"
+2,Main,6.wav,6nt1.png,empty.png,6t.png,6nt2.png,LL,UR,LL,1a_Non-canonical,1a,Subject Cleft,Agent
+3,Sham,sham1.wav,empty.png,sham1t.png,sham1nt1.png,sham1nt2.png,UR,UL,UR,Sham,1a,Canonical,Action
+4,Main,17.wav,17t.png,empty.png,17nt1.png,17nt2.png,UL,UR,UL,1c_Non-canonical,1c,Passive,"Agent, Recipient"
+5,Sham,sham2.wav,sham2nt1.png,sham2nt2.png,sham2t.png,empty.png,LL,LR,LL,Sham,1a,Canonical,Action
+6,Main,7.wav,7nt1.png,7t.png,empty.png,7nt2.png,UR,LL,UR,1b_Canonical,1b,Canonical,"Agent, Experiencer"
+7,Main,10.wav,10nt1.png,10t.png,10nt2.png,empty.png,UR,LR,UR,1b_Non-canonical,1b,Passive,"Agent, Action"
+8,Main,16.wav,empty.png,16nt1.png,16t.png,16nt2.png,LL,UL,LL,1c_Non-canonical,1c,Object Cleft,"Agent, Recipient"
+9,Main,2.wav,empty.png,2t.png,2nt1.png,2nt2.png,UR,UL,UR,1a_Canonical,1a,Canonical,Action
+10,Sham,sham3.wav,sham3t.png,sham3nt1.png,empty.png,sham3nt2.png,UL,LL,UL,Sham,1a,Canonical,Facial Expression
+11,Main,5.wav,5t.png,5nt1.png,5nt2.png,empty.png,UL,LR,UL,1a_Non-canonical,1a,Subject Cleft,"Agent, Action"
+12,Main,18.wav,empty.png,18nt1.png,18t.png,18nt2.png,LL,UL,LL,1c_Non-canonical,1c,Subject Cleft,"Agent, Recipient"
+13,Sham,sham4.wav,sham1nt1.png,sham1t.png,empty.png,sham1nt2.png,UR,LL,UR,Sham,1a,Subject Cleft,Action
+14,Main,3.wav,3nt1.png,empty.png,3t.png,3nt2.png,LL,UR,LL,1a_Canonical,1a,Canonical,Action
+15,Main,13.wav,13t.png,empty.png,13nt1.png,13nt2.png,UL,UR,UL,1c_Canonical,1c,Canonical,"Agent, Theme, Recipient"
+16,Sham,sham5.wav,sham2nt1.png,sham2nt2.png,sham2t.png,empty.png,LL,LR,LL,Sham,1a,Subject Cleft,Action
+17,Main,4.wav,4nt1.png,empty.png,4nt2.png,4t.png,LR,UR,LR,1a_Non-canonical,1a,Subject Cleft,"Agent, Action"
+18,Main,11.wav,empty.png,11nt1.png,11t.png,11nt2.png,LL,UL,LL,1b_Non-canonical,1b,Subject Cleft,"Agent, Theme, Action"
+19,Main,14.wav,14nt1.png,14t.png,14nt2.png,empty.png,UR,LR,UR,1c_Canonical,1c,Canonical,"Theme, Action"
+20,Sham,sham6.wav,sham3t.png,sham3nt1.png,empty.png,sham3nt2.png,UL,LL,UL,Sham,1a,Subject Cleft,Facial Expression
+21,Main,9.wav,9t.png,9nt1.png,9nt2.png,empty.png,UL,LR,UL,1b_Canonical,1b,Canonical,"Agent, Theme, Action"
+22,Main,12.wav,12nt1.png,12nt2.png,empty.png,12t.png,LR,LL,LR,1b_Non-canonical,1b,Passive,"Agent, Theme"
+23,Main,8.wav,empty.png,8nt1.png,8nt2.png,8t.png,LR,UL,LR,1b_Canonical,1b,Canonical,"Theme, Action"
+24,Main,1.wav,1t.png,empty.png,1nt1.png,1nt2.png,UL,UR,UL,1a_Canonical,1a,Canonical,Action
